@@ -23,7 +23,7 @@ This project reflects my effort to connect **engineering concepts with real-worl
 
 ---
 
-![Dashboard Preview](https://github.com/senapathiyaswanth/Three-Composite-Bars/blob/main/Refer/Dashboard.png)
+![Dashboard Preview](https://github.com/senapathiyaswanth/Three-Composite-Bars/blob/main/refer/Dashboard.png)
 
 ---
 
