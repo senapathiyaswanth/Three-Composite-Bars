@@ -21,7 +21,7 @@ export function useMaterials() {
   useEffect(() => {
     setLoading(true);
     getMaterials()
-      .then(setMaterials)
+      .then((data) => { if (Array.isArray(data)) setMaterials(data); })
       .catch(() => {/* stay with fallback */})
       .finally(() => setLoading(false));
   }, []);
